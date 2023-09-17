@@ -90,6 +90,14 @@
 
 
 
+// Task 5
 
 
-
+// var a = +prompt("write english subject number name ")
+// var c = +prompt("write math subject number name ")
+// var b = +prompt("write computer subject number name ")
+// var d = 300
+// var  e =  a + b + c 
+// console.log(e)
+// var per = e/d * 100
+// alert("Your percentage is "+ per)
